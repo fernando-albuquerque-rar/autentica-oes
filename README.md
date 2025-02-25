@@ -1,2 +1,2 @@
 # autentica-oes
-repositorio de teste de autenticaçoes
+repositorio de teste de autenticações.....................
